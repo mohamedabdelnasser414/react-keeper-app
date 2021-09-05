@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/react-keeper-app/static/js/main.4fedf54b.chunk.js",
-    "main.js.map": "/react-keeper-app/static/js/main.4fedf54b.chunk.js.map",
+    "main.css": "/react-keeper-app/static/css/main.e1bb1462.chunk.css",
+    "main.js": "/react-keeper-app/static/js/main.cadb0733.chunk.js",
+    "main.js.map": "/react-keeper-app/static/js/main.cadb0733.chunk.js.map",
     "runtime-main.js": "/react-keeper-app/static/js/runtime-main.8fde3fe6.js",
     "runtime-main.js.map": "/react-keeper-app/static/js/runtime-main.8fde3fe6.js.map",
-    "static/js/2.dafc9ea3.chunk.js": "/react-keeper-app/static/js/2.dafc9ea3.chunk.js",
-    "static/js/2.dafc9ea3.chunk.js.map": "/react-keeper-app/static/js/2.dafc9ea3.chunk.js.map",
+    "static/js/2.42add085.chunk.js": "/react-keeper-app/static/js/2.42add085.chunk.js",
+    "static/js/2.42add085.chunk.js.map": "/react-keeper-app/static/js/2.42add085.chunk.js.map",
     "index.html": "/react-keeper-app/index.html",
-    "static/js/2.dafc9ea3.chunk.js.LICENSE.txt": "/react-keeper-app/static/js/2.dafc9ea3.chunk.js.LICENSE.txt"
+    "static/css/main.e1bb1462.chunk.css.map": "/react-keeper-app/static/css/main.e1bb1462.chunk.css.map",
+    "static/js/2.42add085.chunk.js.LICENSE.txt": "/react-keeper-app/static/js/2.42add085.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8fde3fe6.js",
-    "static/js/2.dafc9ea3.chunk.js",
-    "static/js/main.4fedf54b.chunk.js"
+    "static/js/2.42add085.chunk.js",
+    "static/css/main.e1bb1462.chunk.css",
+    "static/js/main.cadb0733.chunk.js"
   ]
 }
