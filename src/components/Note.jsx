@@ -1,9 +1,10 @@
-import React from "react";
+import "./Note.css";
 
-function Note (){
+function Note (props){
     return <div className="note">
-        <h1>This is the title</h1>
-        <p>This is the topic</p>
+        <h1>{props.title}</h1>
+        <p>{props.content}</p>
+        <button onClick={()=>props.onDelete(props.id)}> <i  className="fas fa-trash-alt fa-3x"></i></button>
     </div>
 }
 
